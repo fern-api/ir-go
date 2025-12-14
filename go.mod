@@ -1,4 +1,4 @@
-module github.com/fern-api/ir-go
+module github.com/fern-api/ir-go/v62
 
 go 1.13
 
